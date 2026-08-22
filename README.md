@@ -10,6 +10,7 @@ My LeetCode problem solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
@@ -27,4 +28,20 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
