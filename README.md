@@ -129,6 +129,7 @@ My LeetCode problem solutions
 | [0069-sqrtx](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Newton's Method
 |  |
 | ------- |
@@ -139,6 +140,7 @@ My LeetCode problem solutions
 | [0392-is-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0443-string-compression) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -180,4 +182,12 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
