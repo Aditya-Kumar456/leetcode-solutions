@@ -79,6 +79,7 @@ My LeetCode problem solutions
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -99,6 +100,11 @@ My LeetCode problem solutions
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
