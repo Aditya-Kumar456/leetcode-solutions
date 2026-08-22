@@ -44,6 +44,7 @@ My LeetCode problem solutions
 | [0496-next-greater-element-i](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -96,6 +97,7 @@ My LeetCode problem solutions
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,9 +145,11 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
