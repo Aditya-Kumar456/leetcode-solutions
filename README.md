@@ -15,6 +15,7 @@ My LeetCode problem solutions
 | [0075-sort-colors](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -131,6 +132,7 @@ My LeetCode problem solutions
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0394-decode-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -162,4 +164,8 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
