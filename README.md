@@ -13,6 +13,7 @@ My LeetCode problem solutions
 | ------- |
 | [0075-sort-colors](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
@@ -68,6 +69,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,4 +82,8 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
