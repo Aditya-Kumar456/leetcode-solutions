@@ -49,6 +49,7 @@ My LeetCode problem solutions
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -170,6 +171,7 @@ My LeetCode problem solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
