@@ -65,6 +65,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ My LeetCode problem solutions
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -113,5 +115,6 @@ My LeetCode problem solutions
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0394-decode-string) |
 | [1768-merge-strings-alternately](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
