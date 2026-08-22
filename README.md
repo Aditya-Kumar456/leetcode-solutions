@@ -45,6 +45,7 @@ My LeetCode problem solutions
 | [0704-binary-search](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1732-find-the-highest-altitude](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
@@ -142,6 +143,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
