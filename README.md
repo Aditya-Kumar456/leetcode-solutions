@@ -38,15 +38,18 @@ My LeetCode problem solutions
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Quicksort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0075-sort-colors) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
