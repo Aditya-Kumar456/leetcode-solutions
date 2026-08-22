@@ -16,6 +16,7 @@ My LeetCode problem solutions
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Tree
 |  |
@@ -46,6 +47,7 @@ My LeetCode problem solutions
 | [0724-find-pivot-index](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -57,6 +59,7 @@ My LeetCode problem solutions
 | [0088-merge-sorted-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Quicksort
 |  |
@@ -78,6 +81,7 @@ My LeetCode problem solutions
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Stack
