@@ -31,7 +31,6 @@ public:
         if(next != NULL){
             head -> next = reverseKGroup(next, k);
         }
-
         return prev;
     }
 };
