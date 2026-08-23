@@ -1,7 +1,7 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if(head == NULL){
+ if(head == NULL){
             return NULL;
         }
 
@@ -17,19 +17,19 @@ public:
         }
 
         ListNode* curr = head;
+        ListNode* forward = NULL;
         ListNode* prev = NULL;
-        ListNode* next = NULL;
         count = 0;
         while(curr != NULL && count < k){
-            next = curr -> next;
+            forward = curr -> next;
             curr -> next = prev;
             prev = curr;
-            curr = next;
+            curr = forward;
             count++;
         }
 
-        if(next != NULL){
-            head -> next = reverseKGroup(next, k);
+        if(forward != NULL){
+            head -> next = reverseKGroup(forward, k);
         }
         return prev;
     }
