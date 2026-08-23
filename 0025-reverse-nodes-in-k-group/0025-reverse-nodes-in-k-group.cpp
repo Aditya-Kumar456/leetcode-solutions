@@ -1,7 +1,7 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
- if(head == NULL){
+        if(head == NULL){
             return NULL;
         }
 
