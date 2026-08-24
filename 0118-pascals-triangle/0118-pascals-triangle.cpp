@@ -1,6 +1,5 @@
 class Solution {
 public:
-    
     vector<int>pascalTriangle(int row){
         int ans = 1;
         vector<int>ansRow;
