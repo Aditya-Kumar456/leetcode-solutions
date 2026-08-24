@@ -5,10 +5,10 @@ public:
 
         for(int i : nums){
             pq.push(i);
+        }
 
-            if(pq.size() > k){
-                pq.pop();
-            }
+        while(pq.size() > k){
+            pq.pop();
         }
         return pq.top();
     }
