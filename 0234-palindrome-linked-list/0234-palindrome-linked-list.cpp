@@ -29,8 +29,8 @@ public:
         }
 
         ListNode* middle = getMiddle(head);
-        ListNode* temp = middle -> next;
-        middle -> next = reverse(temp);
+        //ListNode* temp = middle -> next;
+        middle -> next = reverse(middle -> next);
 
         ListNode* head1 = head;
         ListNode* head2 = middle -> next;
