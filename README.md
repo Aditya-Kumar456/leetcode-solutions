@@ -10,6 +10,7 @@ My LeetCode problem solutions
 | [0021-merge-two-sorted-lists](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -21,6 +22,7 @@ My LeetCode problem solutions
 | [0075-sort-colors](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -80,6 +82,7 @@ My LeetCode problem solutions
 | ------- |
 | [0075-sort-colors](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -225,6 +228,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -234,4 +238,8 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
