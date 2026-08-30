@@ -2,7 +2,7 @@ class Solution {
 public:
     bool hasCycle(ListNode *head) {
         if(head == NULL){
-            return false;
+            return NULL;
         }
 
         ListNode* slow = head;
@@ -15,7 +15,6 @@ public:
                 return true;
             }
         }
-
         return false;
     }
 };
