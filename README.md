@@ -55,6 +55,7 @@ My LeetCode problem solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -111,6 +112,7 @@ My LeetCode problem solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0496-next-greater-element-i) |
