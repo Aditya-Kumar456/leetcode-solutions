@@ -123,6 +123,7 @@ My LeetCode problem solutions
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -246,4 +247,8 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
