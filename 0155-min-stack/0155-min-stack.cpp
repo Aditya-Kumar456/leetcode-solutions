@@ -12,7 +12,7 @@ public:
     }
     
     void push(int value) {
-        if(topIndex < size - 1){
+        if(size - topIndex > 1){
             topIndex++;
             arr[topIndex] = value;
 
