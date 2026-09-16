@@ -11,17 +11,22 @@ public:
                 secondMax = max;
                 max = nums[i];
             }
+            
             else if(nums[i] > secondMax && nums[i] != max){
                 thirdMax = secondMax;
                 secondMax = nums[i];
             }
-            else if(nums[i] > thirdMax && nums[i] != secondMax && nums[i] != max){
+            
+            else if(nums[i] > thirdMax && nums[i] != secondMax 
+            && nums[i] != max){
                 thirdMax = nums[i]; 
             }
         }
+
         if(thirdMax == LLONG_MIN){
             return max;
         }
+
         return thirdMax;
     }
 };
