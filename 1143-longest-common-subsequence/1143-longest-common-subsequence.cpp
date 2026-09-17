@@ -2,11 +2,7 @@ class Solution {
 public:
     
     int solve(string &a, string &b, int i, int j, vector<vector<int>>&dp){
-        if(i == a.length()){
-            return 0;
-        }
-
-        if(j == b.length()){
+        if(i == a.length() || j == b.length()){
             return 0;
         }
 
