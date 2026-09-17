@@ -182,6 +182,7 @@ My LeetCode problem solutions
 | [0394-decode-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -221,6 +222,7 @@ My LeetCode problem solutions
 | [0053-maximum-subarray](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -255,4 +257,8 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0155-min-stack) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
