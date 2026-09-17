@@ -127,6 +127,7 @@ My LeetCode problem solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0394-decode-string) |
@@ -177,6 +178,7 @@ My LeetCode problem solutions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -268,4 +270,8 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
