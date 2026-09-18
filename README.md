@@ -75,6 +75,7 @@ My LeetCode problem solutions
 | [0605-can-place-flowers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -227,6 +228,7 @@ My LeetCode problem solutions
 | [0118-pascals-triangle](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
