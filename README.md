@@ -49,6 +49,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -70,6 +71,7 @@ My LeetCode problem solutions
 | [0260-single-number-iii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -228,6 +230,7 @@ My LeetCode problem solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0322-coin-change](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -278,4 +281,12 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
