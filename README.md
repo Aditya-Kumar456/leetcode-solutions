@@ -62,6 +62,7 @@ My LeetCode problem solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -202,10 +203,12 @@ My LeetCode problem solutions
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Counting
 |  |
