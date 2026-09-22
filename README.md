@@ -61,6 +61,7 @@ My LeetCode problem solutions
 | [0011-container-with-most-water](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -175,6 +176,7 @@ My LeetCode problem solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
@@ -203,6 +205,7 @@ My LeetCode problem solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
