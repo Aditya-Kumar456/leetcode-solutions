@@ -40,14 +40,14 @@ public:
         prev = prevSmallerElement(heights, n);
         
         int area = INT_MIN;
-        for(int i=0; i<n; i++) {
+        for(int i = 0; i < n; i++) {
             int l = heights[i];
             
             if(next[i] == -1) {
                 next[i] = n;
             }
             int b = next[i] - prev[i] - 1;
-            int newArea = l*b;
+            int newArea = l * b;
             area = max(area, newArea);
         }
         return area;
@@ -63,7 +63,6 @@ public:
 
         // First row se start
         for(int j = 0; j < m; j++) {
-
             if(matrix[0][j] == '1') {
                 heights[j] = 1;
             }
