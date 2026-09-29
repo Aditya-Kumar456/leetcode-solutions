@@ -61,12 +61,12 @@ public:
         // Histogram heights
         vector<int> heights(m, 0);
 
-        // First row se start
-        for(int j = 0; j < m; j++) {
-            if(matrix[0][j] == '1') {
+        // start from first row
+        for(int j = 0; j < m; j++){
+            if(matrix[0][j] == '1'){
                 heights[j] = 1;
             }
-            else {
+            else{
                 heights[j] = 0;
             }
         }
