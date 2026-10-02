@@ -4,11 +4,11 @@ public:
     int size;
     int front;
     int rear;
-    
+
     MyCircularQueue(int k) {
         size = k;
         arr = new int[size];
-        rear = front = -1;
+        rear = front = -1;    
     }
     
     bool enQueue(int value) {
@@ -16,7 +16,7 @@ public:
             return false;
         }
         if(front == -1){
-            rear = front = 0;
+            front = rear = 0;
         }
         else{
             rear = (rear + 1) % size;
@@ -26,11 +26,11 @@ public:
     }
     
     bool deQueue() {
-        if(front == -1){
+        if((front == -1)){
             return false;
         }
         if(front == rear){
-            rear = front = -1;
+            front = rear = -1;
         }
         else{
             front = (front + 1) % size;
@@ -48,7 +48,7 @@ public:
     }
     
     int Rear() {
-        if(rear == -1){
+        if(front == -1){
             return -1;
         }
         else{
