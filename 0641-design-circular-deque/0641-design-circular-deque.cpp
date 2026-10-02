@@ -8,7 +8,7 @@ public:
     MyCircularDeque(int k) {
         size = k;
         arr = new int[size];
-        rear = front = -1;    
+        front = rear = -1;    
     }
     
     bool insertFront(int value) {
@@ -16,7 +16,7 @@ public:
             return false;
         }
         if(front == -1){
-            rear = front = 0;
+            front = rear = 0;
         }
         else{
             front = (front - 1 + size) % size;
@@ -30,13 +30,14 @@ public:
             return false;
         }
         if(front == -1){
-            rear = front = 0;
+            front = rear = 0;
         }
         else{
             rear = (rear + 1) % size;
         }
         arr[rear] = value;
         return true;
+        
     }
     
     bool deleteFront() {
@@ -49,7 +50,7 @@ public:
         else{
             front = (front + 1) % size;
         }
-        return true;;
+        return true;
     }
     
     bool deleteLast() {
