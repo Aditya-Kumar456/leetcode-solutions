@@ -19,10 +19,8 @@ public:
                 s1.pop();
             }
         }
-
         int ans = s2.top();
         s2.pop();
-
         return ans;
     }
 
@@ -33,7 +31,6 @@ public:
                 s1.pop();
             }
         }
-
         return s2.top();
     }
 
