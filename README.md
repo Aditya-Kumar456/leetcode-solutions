@@ -147,6 +147,7 @@ My LeetCode problem solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -297,6 +298,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Longest Common Subsequence
 |  |
@@ -325,5 +327,6 @@ My LeetCode problem solutions
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
