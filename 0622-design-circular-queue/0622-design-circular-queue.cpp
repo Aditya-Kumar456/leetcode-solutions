@@ -4,6 +4,7 @@ public:
     int size;
     int front;
     int rear;
+    
     MyCircularQueue(int k) {
         size = k;
         arr = new int[size];
