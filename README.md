@@ -15,6 +15,7 @@ My LeetCode problem solutions
 | [0206-reverse-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ My LeetCode problem solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -295,6 +297,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -319,4 +322,8 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
