@@ -16,6 +16,7 @@ My LeetCode problem solutions
 | [0234-palindrome-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@ My LeetCode problem solutions
 | [0496-next-greater-element-i](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -300,6 +302,7 @@ My LeetCode problem solutions
 | [0155-min-stack](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0641-design-circular-deque) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -329,4 +332,5 @@ My LeetCode problem solutions
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
