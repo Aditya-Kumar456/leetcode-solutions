@@ -45,6 +45,7 @@ My LeetCode problem solutions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -75,6 +76,7 @@ My LeetCode problem solutions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -99,6 +101,7 @@ My LeetCode problem solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0134-gas-station) |
@@ -166,6 +169,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
@@ -319,6 +323,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
