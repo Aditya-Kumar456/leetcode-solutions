@@ -47,6 +47,7 @@ My LeetCode problem solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0112-path-sum](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -61,6 +62,7 @@ My LeetCode problem solutions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -70,6 +72,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -80,6 +83,7 @@ My LeetCode problem solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0112-path-sum](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
