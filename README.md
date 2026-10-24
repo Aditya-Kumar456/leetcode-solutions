@@ -150,6 +150,7 @@ My LeetCode problem solutions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -267,6 +268,7 @@ My LeetCode problem solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
