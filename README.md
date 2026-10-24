@@ -45,23 +45,27 @@ My LeetCode problem solutions
 | [0098-validate-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0322-coin-change) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Array
 |  |
 | ------- |
@@ -149,6 +153,7 @@ My LeetCode problem solutions
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Stack
 |  |
 | ------- |
