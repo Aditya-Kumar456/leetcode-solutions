@@ -153,6 +153,7 @@ My LeetCode problem solutions
 | [0136-single-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -291,6 +292,7 @@ My LeetCode problem solutions
 | [0050-powx-n](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -465,4 +467,24 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
