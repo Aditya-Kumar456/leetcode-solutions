@@ -1,0 +1,25 @@
+class Solution {
+public:
+    pair<int, int>fastDiameter(TreeNode* root){
+        if(root == NULL){
+            pair<int, int>p = make_pair(0, 0);
+            return p;
+        }
+
+        pair<int, int>left = fastDiameter(root -> left);
+        pair<int, int>right = fastDiameter(root -> right);
+
+        int option1 = left.first;
+        int option2 = right.first;
+        int option3 = left.second + right.second;
+
+        pair<int, int>ans;
+        ans.first = max(option1, max(option2, option3));
+        ans.second = max(left.second, right.second) + 1;
+
+        return ans;
+    }
+    int diameterOfBinaryTree(TreeNode* root) {
+        return fastDiameter(root).first;
+    }
+};
