@@ -3,7 +3,7 @@ public:
     ListNode* getMiddle(ListNode* head){
         ListNode* slow = head;
         ListNode* fast = head -> next;
-        while(fast != NULL && fast ->next != NULL){
+        while(fast != NULL && fast -> next != NULL){
             slow = slow -> next;
             fast = fast -> next -> next;
         }
@@ -36,7 +36,7 @@ public:
         ListNode* head2 = middle -> next;
         while(head2 != NULL){
             if(head2 -> val != head1 -> val){
-                return 0;
+                return false;
             }
 
             head1 = head1 -> next;
@@ -45,3 +45,4 @@ public:
         return true;
     }
 };
+
