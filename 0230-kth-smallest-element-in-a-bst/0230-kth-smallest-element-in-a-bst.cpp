@@ -25,3 +25,58 @@ public:
         return ans;
     }
 };
+
+/*
+
+class Solution {
+public:
+    int kthSmallest(TreeNode* root, int k) {
+        int count = 0;
+        int ans = -1;
+
+        TreeNode* curr = root;
+
+        while (curr != NULL) {
+
+            if (curr->left == NULL) {
+                count++;
+
+                if (count == k) {
+                    ans = curr->val;
+                }
+
+                curr = curr->right;
+            }
+            else {
+                TreeNode* pred = curr->left;
+
+                while (pred->right != NULL && pred->right != curr) {
+                    pred = pred->right;
+                }
+
+                if (pred->right == NULL) {
+                    pred->right = curr;
+                    curr = curr->left;
+                }
+                else {
+                    pred->right = NULL;
+                    count++;
+
+                    if (count == k) {
+                        ans = curr->val;
+                    }
+
+                    curr = curr->right;
+                }
+            }
+
+            if (ans != -1) {
+                return ans;
+            }
+        }
+
+        return ans;
+    }
+};
+
+*/
