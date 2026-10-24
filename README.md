@@ -187,6 +187,7 @@ My LeetCode problem solutions
 | [0088-merge-sorted-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -221,6 +222,7 @@ My LeetCode problem solutions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -307,6 +309,7 @@ My LeetCode problem solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
