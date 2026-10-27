@@ -7,7 +7,6 @@ public:
 
         int left = maxDepth(root -> left);
         int right = maxDepth(root -> right);
-
         int height = max(left, right) + 1;
         return height;
     }
