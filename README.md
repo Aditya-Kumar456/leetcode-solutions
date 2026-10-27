@@ -72,6 +72,7 @@ My LeetCode problem solutions
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -94,6 +95,7 @@ My LeetCode problem solutions
 | [0543-diameter-of-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -139,6 +141,7 @@ My LeetCode problem solutions
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Array
 |  |
@@ -372,6 +375,7 @@ My LeetCode problem solutions
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -406,6 +410,7 @@ My LeetCode problem solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -468,6 +473,7 @@ My LeetCode problem solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
