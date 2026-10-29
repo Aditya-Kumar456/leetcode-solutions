@@ -74,6 +74,7 @@ My LeetCode problem solutions
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -98,6 +99,7 @@ My LeetCode problem solutions
 | [0617-merge-two-binary-trees](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -147,6 +149,7 @@ My LeetCode problem solutions
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Array
@@ -211,6 +214,7 @@ My LeetCode problem solutions
 | [0414-third-maximum-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -483,6 +487,7 @@ My LeetCode problem solutions
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
