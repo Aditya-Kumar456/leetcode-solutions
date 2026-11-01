@@ -158,6 +158,7 @@ My LeetCode problem solutions
 | [0001-two-sum](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -286,6 +287,7 @@ My LeetCode problem solutions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
