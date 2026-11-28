@@ -222,6 +222,7 @@ My LeetCode problem solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -259,6 +260,7 @@ My LeetCode problem solutions
 | [0242-valid-anagram](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -316,6 +318,7 @@ My LeetCode problem solutions
 | [0260-single-number-iii](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -353,6 +356,7 @@ My LeetCode problem solutions
 | [0344-reverse-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Aditya-Kumar456/leetcode-solutions/tree/master/0443-string-compression) |
